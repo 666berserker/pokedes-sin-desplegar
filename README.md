@@ -5,6 +5,7 @@
 ## ✅ Paso 1: Ir al sitio web de Vercel
 1. Abre tu navegador y entra a: [https://vercel.com](https://vercel.com)
 
+
 ---
 
 ## ✅ Paso 2: Hacer clic en “Start Deploying” o “Sign Up”
@@ -14,10 +15,11 @@
 
 ## ✅ Paso 3: Elegir un método de autenticación
 Tienes varias opciones para registrarte:
-- **GitHub** (recomendado)
+- **GitHub** 
 - **GitLab**
 - **Bitbucket**
 - O puedes usar una cuenta de **correo electrónico**
+- en esta caso se uso un cuenta en Github
 
 > ⚠️ Si eliges GitHub/GitLab/Bitbucket, Vercel pedirá permisos para acceder a tus repositorios.
 
