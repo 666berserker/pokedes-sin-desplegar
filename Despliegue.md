@@ -3,7 +3,7 @@
 
 ## ✅ Requisitos Previos
 
-- Tener una cuenta en Vercel ([https://vercel.com](https://vercel.com)).
+- Tener una cuenta en Vercel ([https://vercel.com1](https://vercel.com)).
 - Tener una cuenta en GitHub.
 - Tener un proyecto web listo (React, Next.js, Angular, Vue, Node.js, etc.).
 - Tener el proyecto subido a GitHub.
