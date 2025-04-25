@@ -17,12 +17,14 @@ Si aún no lo subiste, desde la terminal:
 
 ```bash
 git init
-git remote add origin https://github.com/usuario/nombre-del-repo.git
 git add .
-git commit -m "Primer commit"
-git push -u origin master
-```
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/guia/ejemplo.git
+git push -u origin main
 
+```
+- estos codigos los encuentre en el repositorio credo en GitHub
 ---
 
 ## 2. 🔐 Ingresa a Vercel
@@ -60,14 +62,14 @@ Cada vez que hagas `push` a la rama conectada (por ejemplo `main`), Vercel volve
 ---
 
 
-## 5. 🌐 en caso de que las imágenes no carguen bien 
+## 5. 🌐 extra
 
 En caso de que las imágenes no carguen bien se modifica el archivo “environment.prod” que se encuentra en la ruta “\src\environments”  
 imagesPath: '/pokedex-angular/assets/images' 
 a 
 imagesPath: ' /assets/images'
 
-.
+
 
 
 ## ✅ ¡Listo!
