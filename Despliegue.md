@@ -26,8 +26,9 @@ git push -u origin main
 
 ```
 - estos codigos los encuentre en el repositorio credo en GitHub
-- Si no reconoce el termino “git” su computador es porque no está instalado el “git” en su computador 
--[descargar git](https://git-scm.com/downloads). 
+- Si no reconoce el termino “git” su computador es porque no está instalado el “git”
+  
+- [descargar git](https://git-scm.com/downloads). 
 
 ---
 
