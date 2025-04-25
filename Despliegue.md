@@ -7,6 +7,9 @@
 - Tener una cuenta en GitHub.
 - Tener un proyecto web listo (React, Next.js, Angular, Vue, Node.js, etc.).
 - Tener el proyecto subido a GitHub.
+- Desplegar el código fuente que se encuentra en el siguiente enlace: Código fuente
+PokeDex.
+
 
 ---
 
