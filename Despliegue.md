@@ -130,4 +130,3 @@ Cada vez que hagas `push` a la rama conectada (por ejemplo `main`), Vercel volve
 
 ## ✅ ¡Listo!
 
-Tu proyecto ahora está corriendo en producción con actualizaciones automáticas en cada commit.
