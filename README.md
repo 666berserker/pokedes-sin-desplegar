@@ -1,36 +1,53 @@
-# Pokédex Angular
+# Guía paso a paso para crear una cuenta en Vercel
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![codecov](https://codecov.io/gh/keilermora/pokedex-angular/branch/master/graph/badge.svg?token=9E0D28IOFT)](https://codecov.io/gh/keilermora/pokedex-angular)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+---
 
-[https://keilermora.github.io/pokedex-angular/](https://keilermora.github.io/pokedex-angular/)
+## ✅ Paso 1: Ir al sitio web de Vercel
+1. Abre tu navegador y entra a: [https://vercel.com](https://vercel.com)
 
-La aplicación muestra el listado y el detalle de los Pokémon de las primeras 3 generaciones.
+---
 
-La imagen que representa un Pokémon en el listado muestra las variaciones que estos tuvieron durante las primeras versiones, desde la versión Green (1996) hasta la version Emerald (2005).
+## ✅ Paso 2: Hacer clic en “Start Deploying” o “Sign Up”
+- En la página principal, haz clic en el botón **“Start Deploying”** o en la esquina superior derecha, elige **“Sign Up”**.
 
-Los detalles de un Pokémon individual muestra sus estadísticas base y los registros de la Pokédex de las diferentes versiones.
+---
 
-El proyecto fue desarrollado usando la librería de JavaScript [Angular](https://angular.io/) para crear la interfaz de usuario, en comunicación con la Api RESTful [PokéAPI](https://pokeapi.co/).
+## ✅ Paso 3: Elegir un método de autenticación
+Tienes varias opciones para registrarte:
+- **GitHub** (recomendado)
+- **GitLab**
+- **Bitbucket**
+- O puedes usar una cuenta de **correo electrónico**
 
-## Requisitos mínimos
+> ⚠️ Si eliges GitHub/GitLab/Bitbucket, Vercel pedirá permisos para acceder a tus repositorios.
 
-- [Nodejs](https://nodejs.org) con soporte de largo plazo (LTS).
-- Un navegador web
+---
 
-## Ambiente de pruebas
+## ✅ Paso 4: Autenticarte con la plataforma elegida
+- Si eliges GitHub, serás redirigido a la página de autorización de GitHub.
+- Debes hacer clic en **"Authorize Vercel"**.
+- Es posible que GitHub te pida iniciar sesión si aún no lo has hecho.
 
-Ejecutar en la raíz del proyecto:
+---
 
-```
-npm start
-```
+## ✅ Paso 5: Configurar tu cuenta
+Una vez autenticado:
+1. Vercel te pedirá que completes algunos datos:
+   - Nombre de usuario
+   - Nombre del equipo (puedes dejarlo como está o cambiarlo)
+2. Opcional: Puedes seleccionar qué repositorios quieres conectar (todos o algunos específicos).
 
-## Referencias
+---
 
-- [Angular](https://angular.io/): One framework.
-- [Angular Folder Structure](https://angular-folder-structure.readthedocs.io/en/latest/): Create a skeleton structure which is flexible for projects big or small.
-- [Font Awesome](https://fontawesome.com/): The web's most popular icon set and toolkit.
-- [Normalize.css](https://necolas.github.io/normalize.css/): A modern, HTML5-ready alternative to CSS resets.
-- [PokéAPI](https://pokeapi.co/): The RESTful Pokémon API.
+## ✅ Paso 6: Finalizar registro
+- Al completar esta configuración, serás redirigido a tu **dashboard de Vercel**.
+- Ahí ya puedes empezar a **crear y desplegar proyectos** directamente desde tus repositorios.
+
+---
+
+## 💡 Consejos útiles
+- Si vas a usar Angular u otro framework, Vercel detecta automáticamente muchos frameworks populares.
+- Puedes usar el botón **“New Project”** para importar desde GitHub y desplegar tu aplicación.
+- El dominio temporal que te asigna Vercel es del tipo: `https://mi-proyecto.vercel.app`
+
+---
