@@ -3,11 +3,11 @@
 
 ## ✅ Requisitos Previos
 
-- Tener una cuenta en Vercel ([https://vercel.com1](https://ver2cel.com)).
+- Tener una cuenta en Vercel ([https://vercel.com](https://vercel.com)).
 - Tener una cuenta en GitHub.
 - Tener un proyecto web listo (React, Next.js, Angular, Vue, Node.js, etc.).
 - Tener el proyecto subido a GitHub.
-- Desplegar el código fuente que se encuentra en el siguiente enlace: ([https://github.com/rcuello/ac4dem1a/tree/master/sistemas-distribuidos/poke-dex-lab](Código fuente PokeDex.))
+- Desplegar o descargar el código fuente que se encuentra en el siguiente enlace: ([Código fuente](https://github.com/rcuello/ac4dem1a/tree/master/sistemas-distribuidos/poke-dex-lab)).
 
 ---
 
