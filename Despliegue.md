@@ -13,6 +13,7 @@
 
 ## 1. 🗂 Sube tu Proyecto a un Repositorio
 
+
 Si aún no lo subiste, desde la terminal:
 
 ```bash
@@ -25,6 +26,9 @@ git push -u origin main
 
 ```
 - estos codigos los encuentre en el repositorio credo en GitHub
+- Si no reconoce el termino “git” su computador es porque no está instalado el “git” en su computador 
+-[descargar git](https://git-scm.com/downloads). 
+
 ---
 
 ## 2. 🔐 Ingresa a Vercel
