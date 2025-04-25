@@ -7,7 +7,7 @@
 - Tener una cuenta en GitHub.
 - Tener un proyecto web listo (React, Next.js, Angular, Vue, Node.js, etc.).
 - Tener el proyecto subido a GitHub.
-- Desplegar el código fuente que se encuentra en el siguiente enlace: ([[https://vercel.com](https://github.com/rcuello/ac4dem1a/tree/master/sistemas-distribuidos/poke-dex-lab)](Código fuente
+- Desplegar el código fuente que se encuentra en el siguiente enlace: ([https://github.com/rcuello/ac4dem1a/tree/master/sistemas-distribuidos/poke-dex-lab)](Código fuente
 PokeDex.))
 
 ---
