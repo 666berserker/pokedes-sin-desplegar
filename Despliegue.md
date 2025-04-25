@@ -64,13 +64,15 @@ Cada vez que hagas `push` a la rama conectada (por ejemplo `main`), Vercel volve
 
 ## 5. 🌐 extra
 
-En caso de que las imágenes no carguen bien se modifica el archivo “environment.prod” que se encuentra en la ruta “\src\environments”  
-imagesPath: '/pokedex-angular/assets/images' 
-a 
-imagesPath: ' /assets/images'
+-En caso de que las imágenes no carguen bien se modifica el archivo “environment.prod” que se encuentra en la ruta “\src\environments”  
+ imagesPath: '/pokedex-angular/assets/images' 
+ a 
+ imagesPath: ' /assets/images'
 
-Para aumentar la seguridad de la pagina desplegado se crea un archivo llamado vercel.json 
-Con lo siguiente 
+
+-Para aumentar la seguridad de la pagina desplegada se crea un archivo llamado vercel.json 
+ Con lo siguiente:
+
 ```
 {
   "version": 2,
@@ -114,9 +116,8 @@ Con lo siguiente
     }
   ]
 }
-
-
 ```
+-Se guarda en la entrada principal 
 
 
 
