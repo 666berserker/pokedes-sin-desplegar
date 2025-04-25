@@ -107,7 +107,7 @@ Cada vez que hagas `push` a la rama conectada (por ejemplo `main`), Vercel volve
         },
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://pokedex-desplegado.vercel.app/"
+          "value": "https://tu url que genero vercel.vercel.app/"
         },
         {
           "key": "Access-Control-Allow-Methods",
