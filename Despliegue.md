@@ -40,55 +40,34 @@ git push -u origin master
 
 ---
 
-## 4. ⚙️ Configuración del Proyecto
-
-- **Framework Preset**: elige el framework si no se detecta automáticamente.
-- **Root Directory** (opcional): si tu código está dentro de una carpeta (ej. `/frontend`).
-- **Build Command**:
-  - Angular: `ng build --configuration production`
-  - React: `npm run build`
-  - Vue: `npm run build`
-- **Output Directory**:
-  - Angular: `dist/nombre-del-proyecto`
-  - React/Vue/Next.js: normalmente `build` o `.next`
-
----
-
-## 5. 🧪 Agrega Variables de Entorno (si aplica)
-
-1. En la sección "Environment Variables", agrega las necesarias.
-
-```env
-API_URL=https://api.midominio.com
-```
-
----
-
-## 6. 🚀 Realiza el Despliegue
+## 4. 🚀 Realiza el Despliegue
 
 1. Haz clic en **"Deploy"**.
 2. Espera a que Vercel instale las dependencias, compile el proyecto y lo despliegue.
 3. Obtendrás una URL pública del tipo:
 
 ```
-https://nombre-proyecto.vercel.app
+https://nombre-ejemplo-guia.vercel.app
 ```
 
 ---
 
-## 7. 🌐 Agrega tu Dominio Personalizado (opcional)
-
-1. Ve a tu panel de Vercel.
-2. En **Settings > Domains**, añade tu dominio.
-3. Sigue las instrucciones para configurar los registros DNS.
-
----
-
-## 8. 🔁 Actualizaciones Automáticas
+## 5. 🔁 Actualizaciones Automáticas
 
 Cada vez que hagas `push` a la rama conectada (por ejemplo `main`), Vercel volverá a desplegar automáticamente la nueva versión.
 
 ---
+
+
+## 5. 🌐 en caso de que las imágenes no carguen bien 
+
+En caso de que las imágenes no carguen bien se modifica el archivo “environment.prod” que se encuentra en la ruta “\src\environments”  
+imagesPath: '/pokedex-angular/assets/images' 
+a 
+imagesPath: ' /assets/images'
+
+.
+
 
 ## ✅ ¡Listo!
 
